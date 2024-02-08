@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-class guess{
+class Game{
     int guess;
     int comp;
     //int noOfGuesses = 0;
