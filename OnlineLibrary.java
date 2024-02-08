@@ -1,4 +1,3 @@
-package Final;
 import java.util.Objects;
 import java.util.Scanner;
 class library {

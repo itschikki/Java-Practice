@@ -1,4 +1,3 @@
-package Final;
 import java.util.Random;
 import java.util.Scanner;
 public class RockPaperS {
